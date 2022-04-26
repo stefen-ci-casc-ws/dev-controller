@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "stefen-ci-casc-ws-dev-controller"
+description: "CloudBees CI configuration bundle for the stefen-ci-casc-ws dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/stefen-ci-casc-ws/dev-controller"
+parent: "base"
